@@ -1,5 +1,5 @@
 _repo: Naisen-haamu-Mysterio-neljassa-kertomuksessa_55117
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Forsman, Anton Oskar
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '8621'
     url: http://www.gutenberg.org/2009/agents/8621
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/98
     wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55117#Naisen-haamu-Mysterio-neljassa-kertomuksessa
 gutenberg_issued: '2017-07-15'
 gutenberg_type: Text
 identifiers:
