@@ -1,0 +1,33 @@
+_repo: Naisen-haamu-Mysterio-neljassa-kertomuksessa_55117
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Forsman, Anton Oskar
+    birthdate: 1850
+    deathdate: 1914
+    gutenberg_agent_id: '8621'
+    url: http://www.gutenberg.org/2009/agents/8621
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: ''
+gutenberg_issued: '2017-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55117'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Naisen haamu
+
+  Mysterio neljässä kertomuksessa'
+url: http://www.gutenberg.org/ebooks/55117
